@@ -1,0 +1,15 @@
+
+/* Class = "UISegmentedControl"; DCK-X2-0ml.segmentTitles[0] = "Round Trip"; ObjectID = "DCK-X2-0ml"; */
+"DCK-X2-0ml.segmentTitles[0]" = "Gidiş Dönüş";
+
+/* Class = "UISegmentedControl"; DCK-X2-0ml.segmentTitles[1] = "One Way"; ObjectID = "DCK-X2-0ml"; */
+"DCK-X2-0ml.segmentTitles[1]" = "Tek Yön";
+
+/* Class = "UIButton"; configuration.title = "Search Flight"; ObjectID = "Xey-18-QDe"; */
+"Xey-18-QDe.configuration.title" = "Uçuş Ara";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Xey-18-QDe"; */
+"Xey-18-QDe.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "rRv-Cc-G8J"; */
+"rRv-Cc-G8J.normalTitle" = "Button";
